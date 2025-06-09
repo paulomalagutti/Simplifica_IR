@@ -1,4 +1,4 @@
-# projeto2Dio
+# Simplifica_IR
 Ferramenta de declaração de imposto de renda.
 💼 Ferramenta para Declaração de Imposto de Renda – 100% Excel
 Este projeto consiste em uma ferramenta interativa desenvolvida inteiramente no Excel, com o objetivo de facilitar o preenchimento e a organização das informações para a declaração de imposto de renda.
